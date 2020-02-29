@@ -1,0 +1,57 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.wrapper {
+  margin-left: 40%;
+}
+
+button {
+  padding: 20px;
+  width: 60px;
+  border-style: solid 50px;
+  height: 60px;
+}
+
+.row-1 {
+  display: inline;
+}
+
+.row-2 {
+  display: inline;
+}
+
+.row-3 {
+  display: inline;
+}
+
+.first-first {
+  display: inline;
+  margin-right: -5px;
+}
+
+.first-second {
+  display: inline;
+  margin-right: -5px;
+}
+
+.second-first {
+  display: inline;
+  margin-right: -5px;
+}
+
+.second-second {
+  display: inline;
+  margin-right: -5px;
+}
+
+.third-first {
+  display: inline;
+  margin-right: -5px;
+}
+
+.third-second {
+  display: inline;
+  margin-right: -5px;
+}
